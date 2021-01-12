@@ -1,1 +1,1 @@
-# Build a customized alert function
+# Customized alert function
