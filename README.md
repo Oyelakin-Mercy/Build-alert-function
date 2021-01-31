@@ -1,2 +1,2 @@
-# Customized alert function
+# alert function
 
