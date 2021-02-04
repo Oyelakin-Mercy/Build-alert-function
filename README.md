@@ -1,1 +1,2 @@
-# alert functionn
+# alert function
+customize alert function
